@@ -1,13 +1,8 @@
 *
 body
 {
-/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,170e2d+0,170e2d+72 */
-background: #1e5799; /* Old browsers */
-background: -moz-linear-gradient(left,  #1e5799 0%, #170e2d 0%, #170e2d 72%); /* FF3.6-15 */
-background: -webkit-linear-gradient(left,  #1e5799 0%,#170e2d 0%,#170e2d 72%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to right,  #1e5799 0%,#170e2d 0%,#170e2d 72%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#170e2d',GradientType=1 ); /* IE6-9 */
-
+    background-color: #431798;
+    background-image: linear-gradient(190deg, #431798 8%, #06031f 97%);
 }
 .zubia
 {
@@ -44,7 +39,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 }
 .main-nav li a
 {
-    color: grey;
+    color: white;
     text-decoration: none;
     padding: 5px 20px;
     font-family: "Roboto",sans-serif;
@@ -54,7 +49,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 
 .active
 {
-    border: 1px solid grey; 
+    border: 1px solid white; 
     border-radius : 35px;
     margin-right: 140px;
     color: white;
@@ -102,7 +97,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 {
     float: left;
     list-style-type: none;
-    margin-top: -400px; 
+    margin-top: -420px; 
     margin-left: 20px;  
 
 }
@@ -123,7 +118,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 {
     float: left;
     list-style-type: none;
-    margin-top:40px;
+    margin-top:50px;
     margin-left: -40px;
 }
 .time li
@@ -139,7 +134,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 }
 .get
 {
-    margin-top: 40px;
+    margin-top: 60px;
     margin-left: 50px;
 }
 .get li
@@ -152,7 +147,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', end
 {
     background-color: orangered; 
     border-radius: 35px;
-    padding: 10px 15px;
+    padding: 17px 25px;
     font-family: "Roboto",sans-serif;
-    font-size: 15px;
+    font-size: 17px;
 }
