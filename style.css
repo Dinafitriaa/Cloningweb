@@ -1,0 +1,158 @@
+*
+body
+{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+0,170e2d+0,170e2d+72 */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(left,  #1e5799 0%, #170e2d 0%, #170e2d 72%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #1e5799 0%,#170e2d 0%,#170e2d 72%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #1e5799 0%,#170e2d 0%,#170e2d 72%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#170e2d',GradientType=1 ); /* IE6-9 */
+
+}
+.zubia
+{
+    float : left;
+    list-style-type:none;
+    margin-top: 30px; 
+    margin-left: 30px;  
+}
+.zubia li
+{
+    display: inline-block;   
+
+}
+
+.zubia li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto",sans-serif;
+    font-size: 33px;
+}   
+.main-nav
+{
+    float : right;
+    list-style-type:none;
+    margin-top: -5px;
+    margin-right: -1200;
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: grey;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto",sans-serif;
+    font-size: 17px;
+
+}
+
+.active
+{
+    border: 1px solid grey; 
+    border-radius : 35px;
+    margin-right: 140px;
+    color: white;
+    padding: 10px 20px;
+    font-family:"Roboto", sans-serif;
+    font-size: 17px;
+}
+.icon img
+{
+    width: 25px;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+    margin-left: -100px;
+}
+.extract
+{
+    float : left;
+    margin-top: 25px; 
+    margin-left: -170px;  
+
+}
+.extract li
+{
+    display: inline-block;
+
+}
+.extract li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+}
+.ilus img
+{
+    width: 650px;
+    height: auto;
+    float: right;
+    margin-top: 30px;
+    margin-right: -100px;
+}
+.data
+{
+    float: left;
+    list-style-type: none;
+    margin-top: -400px; 
+    margin-left: 20px;  
+
+}
+.data li
+{
+    display: inline-block;
+
+}
+.data li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 20px 30px;
+    font-family: "Roboto",sans-serif;
+    font-size: 70px;
+}
+.time
+{
+    float: left;
+    list-style-type: none;
+    margin-top:40px;
+    margin-left: -40px;
+}
+.time li
+{
+    display: inline-block;
+}
+.time li a
+{
+    color: white;
+    text-decoration: none;
+    font-family: "Roboto",sans-serif;
+    font-size: 25px;
+}
+.get
+{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.get li
+{
+    margin-left: -60;
+    color: white;
+    font-family: "Roboto",sans-serif;
+}
+.get li a
+{
+    background-color: orangered; 
+    border-radius: 35px;
+    padding: 10px 15px;
+    font-family: "Roboto",sans-serif;
+    font-size: 15px;
+}
